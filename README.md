@@ -1,5 +1,7 @@
 SOAESTATE Desktop Application
 
+<img width="992" height="474" alt="Screenshot 2026-06-02 180449" src="https://github.com/user-attachments/assets/27671120-300a-4d31-ab33-80ab8db7d4ed" />
+
 Production-grade desktop application built by DaNg in collaboration with Signmozo
 
 Focused on Security • Scalability • Performance • Cost Optimization
@@ -180,4 +182,4 @@ Developed by DaNg in collaboration with Signmozo.
 A production-grade desktop application built to deliver secure file management, scalable architecture, and cost-efficient storage solutions.
 
 
-<img width="992" height="474" alt="Screenshot 2026-06-02 180449" src="https://github.com/user-attachments/assets/27671120-300a-4d31-ab33-80ab8db7d4ed" />
+
